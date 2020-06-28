@@ -5,6 +5,21 @@ image::https://img.shields.io/travis/spockframework/spock-example/master.svg?lab
 image::https://badges.gitter.im/spockframework/spock.svg[link=https://gitter.im/spockframework/spock?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge,float=left]
 --
 
+== Run spock-example in IntelliJ
+
+=== Env
+
+Type:
+
+    brew install groovy
+    echo 'export GROOVY_HOME=/usr/local/opt/groovy/libexec' >> <start-up shell script file>
+
+    Add installed groovy into a project's framewok support.
+
+    Ref.
+    https://www.jetbrains.com/help/idea/getting-started-with-groovy.html#create_groovy_project
+
+
 == Spock Framework Example Project
 
 
